@@ -6,6 +6,8 @@ A completely automatic running light that is activated when you step on the stai
 
 
 # Hardware
-
+ESP32
+Mosfets IRLZ44N
+...
 
 # Software
