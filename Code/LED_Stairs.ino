@@ -5,7 +5,7 @@
 
 Adafruit_PWMServoDriver pwm = Adafruit_PWMServoDriver();
 
-// Adafruit 16-channel PWM & Servo driver
+// Adafruit 16-channel PWM & Servo driver 
 // Depending on your servo make, the pulse width min and max may vary, you 
 // want these to be as small/large as possible without hitting the hard stop
 // for max range. You'll have to tweak them as necessary to match the servos you
